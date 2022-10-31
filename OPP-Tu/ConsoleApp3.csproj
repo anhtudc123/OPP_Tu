@@ -49,7 +49,7 @@
     <Compile Include="dao\Database.cs" />
     <Compile Include="demo\CategoryDaoDemo.cs" />
     <Compile Include="demo\DatebaseDemo.cs" />
-    <Compile Include="demo\ProductDao.cs" />
+    <Compile Include="dao\ProductDao.cs" />
     <Compile Include="demo\ProductDaoDemo.cs" />
     <Compile Include="Entity\Accessotion.cs" />
     <Compile Include="Entity\BaseEntity.cs" />
