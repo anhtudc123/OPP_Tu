@@ -1,3 +1,0 @@
-C:\Users\DELL\Source\Repos\ConsoleApp3\obj\Release\ConsoleApp3.csproj.AssemblyReference.cache
-C:\Users\DELL\Source\Repos\ConsoleApp3\obj\Release\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
-C:\Users\DELL\Source\Repos\ConsoleApp3\obj\Release\ConsoleApp3.csproj.CoreCompileInputs.cache
